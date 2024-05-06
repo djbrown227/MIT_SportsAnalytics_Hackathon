@@ -33,6 +33,9 @@ We outlined several avenues for future exploration and refinement:
 ### Conclusion:
 Our project represents a pioneering effort to unlock the mysteries of hockey defense dynamics through data analytics. With DD as our guiding metric, we've laid the foundation for future advancements in strategic gameplay and performance optimization. Join us on this journey as we continue to push the boundaries of sports analytics and innovation. 
 
+### Article About Competition
+[Article written about the 2022 MIT Sports Analytics Hackathon. All finalists, including our team, were mentioned](https://bayesianops.medium.com/winning-the-mit-sloan-sports-analytics-2022-hackathon-2df76667be73)
+
 ### Collaborators:
 - Daniel Brown
 - David Bergman
